@@ -1,0 +1,16 @@
+.card {
+  height: 200px;
+  width: 200px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  border: solid 2px black;
+  border-radius: 10px;
+
+  .counter {
+    padding-top: 10px;
+    width: 100%;
+    height: 100%;
+  }
+}
